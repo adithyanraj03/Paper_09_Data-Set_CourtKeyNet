@@ -17,7 +17,7 @@ Full technical specifications, usage guidelines, and performance metrics will be
 ```
  Citation [will be updated]
 ```
-*refer more details :[click here](https://github.com/adithyanraj03/CourtKeyNet)
+*refer for more details :[click here](https://github.com/adithyanraj03/CourtKeyNet)
 
 ## License Information
 - MIT license applies to all content
