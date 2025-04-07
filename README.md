@@ -7,8 +7,7 @@ This repository contains image datasets organized in multiple clusters for compu
 ```
 ├── data_raw-cluster00/  # First cluster of dataset files
 ├── data_raw-cluster01/  # Second cluster of dataset files 
-├── data_raw-cluster02/  # Third cluster of dataset files
-└── LICENSE              # MIT license
+├── data_raw-cluster02/  # Third cluster of dataset files           
 ```
 
 ## Notice to Users
