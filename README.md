@@ -19,6 +19,15 @@ Full technical specifications, usage guidelines, and performance metrics will be
 ```
 *refer for more details :[click here](https://github.com/adithyanraj03/CourtKeyNet)
 
+## Acknowledgements
+
+We extend our sincere gratitude to the following entities whose contributions were invaluable to the creation of this dataset:
+
+- **Roboflow Universe:** For providing a platform and resources that facilitate the sharing and accessibility of datasets within the computer vision community.
+- The **athletes, players, and individuals** featured in sports imagery, whose participation makes datasets like this possible.
+
+Their contributions are invaluable to the advancement of computer vision, particularly in sports analytics.
+
 ## License Information
 - MIT license applies to all content
 
