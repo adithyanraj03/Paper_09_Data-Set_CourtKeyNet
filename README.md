@@ -24,7 +24,18 @@ Full technical specifications, usage guidelines, and performance metrics will be
 We extend our sincere gratitude to the following entities whose contributions were invaluable to the creation of this dataset:
 
 - **Roboflow Universe:** For providing a platform and resources that facilitate the sharing and accessibility of datasets within the computer vision community.
-- The **athletes, players, and individuals** featured in sports imagery, whose participation makes datasets like this possible.
+This combination dataset was compiled by curating and merging data from two open-source repositories on [Roboflow Universe](https://universe.roboflow.com/), both released under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/). Special thanks to Roboflow Universe for providing a platform and resources that facilitate the sharing and accessibility of datasets within the computer vision community.
+
+### Source Datasets
+
+- **BadmintonC Dataset**  
+  *Himani Jain (2023)*  
+  [View on Roboflow Universe](https://universe.roboflow.com/himani-jain/badmintonc)
+
+- **shuttlecock Dataset**  
+  *AdwProj (2025)*  
+  [View on Roboflow Universe](https://universe.roboflow.com/adwproj/shuttlecock-yu8ra)
+
 
 ## License Information
 - MIT license applies to all content
