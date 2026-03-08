@@ -15,7 +15,18 @@ This dataset is part of ongoing research with pending publication. The complete 
 Full technical specifications, usage guidelines, and performance metrics will be made available following the publication of associated research.
 
 ```
- Citation [will be updated]
+@article{RAJ2026100884,
+title = {CourtKeyNet: A novel octave-based architecture for precision badminton court detection with geometric constraints},
+journal = {Machine Learning with Applications},
+pages = {100884},
+year = {2026},
+issn = {2666-8270},
+doi = {https://doi.org/10.1016/j.mlwa.2026.100884},
+url = {https://www.sciencedirect.com/science/article/pii/S2666827026000496},
+author = {Adithya N Raj and Prethija G.},
+keywords = {Computer vision, Keypoint detection, Badminton court detection, Convolutional neural networks, Geometric constraints, Sports video analysis},
+abstract = {Court detection is an important part of sports video analysis, match statistics generation and automated broadcasting systems. Current methodologies often rely on general object detection methods, lacking domain specific knowledge for the correct identification of court borders. In this work, a new deep learning architecture for badminton court detection, CourtKeyNet, was introduced. CourtKeyNet comprises several novel components, including (1) an Octave Feature Extractor for analyzing visual data with various frequency bands, (2) a Polar Transform Attention mechanism to boost the boundary detection capability, (3) a Keypoint Localization module with a hybrid heatmap and regression-based approach to localize precise corners, (4) a Quadrilateral Constraint Module to achieve geometric consistency, (5) a novel Geometric Consistency Loss function. Extensive experiments show that CourtKeyNet has the best results that outperforms the general purpose keypoint detection methods in terms of mean keypoint localization accuracy and court detection Intersection over Union (IoU).}
+}
 ```
 *refer for more details :[click here](https://github.com/adithyanraj03/CourtKeyNet)
 
