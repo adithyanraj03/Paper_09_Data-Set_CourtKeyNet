@@ -2,6 +2,14 @@
 ## Overview
 This repository contains image datasets organized in multiple clusters for computer vision research. The data is structured for a specialized detection task that is part of ongoing academic research.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7824854d-8839-4141-9464-aa396db9d92f" width="45%" />
+  <img src="https://github.com/user-attachments/assets/32062762-d108-4370-97cb-8ce076fed23d" width="45%" />
+</p>
+
+
+
+
 ## Repository Structure
 ```
 ├── data_raw-cluster00/  # First cluster of dataset files
